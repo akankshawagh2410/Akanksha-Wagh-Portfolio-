@@ -45,7 +45,11 @@ I am actively looking for full-time roles in Data Science and Machine Learning R
 
 **Data Engineer Intern** — Tata Motors India  
 - Developed Python-based pipelines and Django REST APIs for real-time business dashboards  
-- Collaborated with IT teams to analyze service requests and enhance operational insights  
+- Collaborated with IT teams to analyze service requests and enhance operational insights
+
+**Freelancer: Data Engineer & Analytics** — Tata Motors India  
+- Built scalable data pipelines and dashboards across GCP, AWS, and Azure ML.
+- Mined 8TB+ clickstream data to drive higher lead conversion and ROI for e-commerce campaigns.
 
 ---
 
@@ -53,7 +57,7 @@ I am actively looking for full-time roles in Data Science and Machine Learning R
 
 **Masters in Data Science** — Stevens Institute of Technology, NJ, USA
 - Graduadted: May 2025
-- GPA: 3.4/4
+- GPA: 3.36/4
 
 **Bachelors in Information Technology** — Pune University, India 
 - Graduated: June 2023
