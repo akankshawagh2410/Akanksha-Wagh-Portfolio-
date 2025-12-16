@@ -1,6 +1,6 @@
 # 👩‍💻 Akanksha Wagh
 
-📍 Bellevue, WA | ✉️ awagh2410@gmail.com | [LinkedIn](https://www.linkedin.com/in/akanksha-wagh-1963a722a/) | [GitHub](https://github.com/akankshawagh2410) | [Blogs](https://medium.com/@akankshawagh/hi-i-am-akanksha-wagh-611dca3d4620)
+📍 USA | ✉️ awagh2410@gmail.com | [LinkedIn](https://www.linkedin.com/in/akanksha-wagh-1963a722a/) | [GitHub](https://github.com/akankshawagh2410) | [Blogs](https://medium.com/@akankshawagh/hi-i-am-akanksha-wagh-611dca3d4620)
 
 ## 🎓 Data Scientist | AI + Analytics Enthusiast | GenAI Explorer
 
