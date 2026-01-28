@@ -35,19 +35,19 @@ I am actively looking for full-time roles in Data Science and Machine Learning R
 
 ### 💼 Experience
 
-**Machine Learning Intern** — Stevens Institute of Technology  
+**Machine Learning Engineer** — Stevens Institute of Technology  
 - Built a GPT-4 + LangChain chatbot for IT support, automating complex ticket resolution  
 - Deployed context switching, logging dashboards, and sentiment analytics for performance monitoring  
 
-**Data Analyst Intern (Marketing)** — Compass Group USA  
+**Data Analyst (Business & Marketing)** — Compass Group USA  
 - Designed dashboards to track campaign engagement and social media sentiment  
 - Conducted A/B tests and SQL-driven KPI analysis for targeted marketing efforts  
 
-**Data Engineer Intern** — Tata Motors India  
+**Data Engineer** — Tata Motors India  
 - Developed Python-based pipelines and Django REST APIs for real-time business dashboards  
 - Collaborated with IT teams to analyze service requests and enhance operational insights
 
-**Freelancer: Data Engineer & Analytics** — Tata Motors India  
+**Data Engineer & Analytics** — Freelancer 
 - Built scalable data pipelines and dashboards across GCP, AWS, and Azure ML.
 - Mined 8TB+ clickstream data to drive higher lead conversion and ROI for e-commerce campaigns.
 
